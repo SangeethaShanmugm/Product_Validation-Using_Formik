@@ -1,0 +1,22 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  a {
+    color: white;
+    text-decoration: none;
+    margin: 0 16px;
+  }
+  /* CardContent {
+    display: flex;
+    justify-content: space-between;
+  }
+  CardMedia {
+    position: absolute;
+    width: 260px;
+    filter: drop-shadow(5px 10px 15px rgba(8, 9, 13, 0.4));
+  }
+  @media (min-width: 500px) {
+    grid-template-columns: repeat(3, 1fr);
+  } */
+  
